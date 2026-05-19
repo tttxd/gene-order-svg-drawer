@@ -1,4 +1,4 @@
-# Gene Order SVG Drawer
+# Mitogenome-gene-order-drawer
 
 A simple Python script for visualizing mitochondrial gene order from a tab-delimited gene order file and exporting editable SVG figures.
 
